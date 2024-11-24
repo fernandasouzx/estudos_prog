@@ -12,7 +12,7 @@ print("[3] para doar R$ 50 ")
 print("[4] para doar outros valores ")
 print("[5] para cancelar")
 
-#escolhaa do user
+#escolha do user
 
 escolha = int (input("Escolha uma opcao: "))
 
